@@ -1,0 +1,17 @@
+﻿<GetReportRequestListResponse xmlns="http://mws.amazonaws.com/doc/2009-01-01/">
+  <GetReportRequestListResult>
+    <HasNext>false</HasNext>
+    <ReportRequestInfo>
+      <ReportType>_GET_XML_BROWSE_TREE_DATA_</ReportType>
+      <ReportProcessingStatus>_SUBMITTED_</ReportProcessingStatus>
+      <EndDate>2017-11-27T00:23:59+00:00</EndDate>
+      <Scheduled>false</Scheduled>
+      <ReportRequestId>55904017497</ReportRequestId>
+      <SubmittedDate>2017-11-27T00:23:59+00:00</SubmittedDate>
+      <StartDate>2017-11-27T00:23:59+00:00</StartDate>
+    </ReportRequestInfo>
+  </GetReportRequestListResult>
+  <ResponseMetadata>
+    <RequestId>cc1f9da6-f04f-4569-bdb2-2dc78ddf65a5</RequestId>
+  </ResponseMetadata>
+</GetReportRequestListResponse>

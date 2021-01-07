@@ -1,0 +1,1152 @@
+﻿<Result>
+  <query>RootsOnlyRequest</query>
+  <Node>
+    <browseNodeId>10068518031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">10068518031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName/>
+    <browsePathById>10068517031,10068518031</browsePathById>
+    <browsePathByName>Alexa Skills</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="21">
+      <id>10387779031</id>
+      <id>10387829031</id>
+      <id>10387780031</id>
+      <id>10387781031</id>
+      <id>10387782031</id>
+      <id>10387783031</id>
+      <id>10387784031</id>
+      <id>10387786031</id>
+      <id>10387787031</id>
+      <id>10387788031</id>
+      <id>10387789031</id>
+      <id>10387790031</id>
+      <id>10387791031</id>
+      <id>10387792031</id>
+      <id>10387793031</id>
+      <id>10387794031</id>
+      <id>10387795031</id>
+      <id>10387796031</id>
+      <id>10387797031</id>
+      <id>10387798031</id>
+      <id>10387799031</id>
+    </childNodes>
+    <productTypeDefinitions>SKILL_APPLICATION</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>3010086031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">3010086031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName/>
+    <browsePathById>3010085031,3010086031</browsePathById>
+    <browsePathByName>Amazon Video</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="2">
+      <id>3046737031</id>
+      <id>3046738031</id>
+    </childNodes>
+    <productTypeDefinitions/>
+    <refinementsInformation count="1">
+      <refinementName name="Subtitles">
+        <refinementField>
+          <acceptedValues>arabic,cantonese,chinese,danish,dutch,english,english_audio_description,french,german,hindi,italian,japanese,korean,mandarin,portuguese,russian,silent,spanish,swedish,thai</acceptedValues>
+          <hasModifier>true</hasModifier>
+          <modifiers/>
+          <refinementAttribute>language</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>1661658031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">1661658031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Apps for Android</browseNodeStoreContextName>
+    <browsePathById>1661657031,1661658031</browsePathById>
+    <browsePathByName>Apps &amp; Games</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="30">
+      <id>1710348031</id>
+      <id>1710359031</id>
+      <id>1710354031</id>
+      <id>1710355031</id>
+      <id>1710356031</id>
+      <id>1710357031</id>
+      <id>1710358031</id>
+      <id>1710360031</id>
+      <id>1710361031</id>
+      <id>1710362031</id>
+      <id>1710363031</id>
+      <id>1710364031</id>
+      <id>1710365031</id>
+      <id>1710371031</id>
+      <id>1710372031</id>
+      <id>1710373031</id>
+      <id>1710374031</id>
+      <id>1710375031</id>
+      <id>1710376031</id>
+      <id>1710377031</id>
+      <id>1710378031</id>
+      <id>1710379031</id>
+      <id>1710380031</id>
+      <id>1710381031</id>
+      <id>1710382031</id>
+      <id>1710383031</id>
+      <id>1710384031</id>
+      <id>1710385031</id>
+      <id>1710395031</id>
+      <id>1710396031</id>
+    </childNodes>
+    <productTypeDefinitions>MOBILE_APPLICATION</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>248878031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">248878031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Products</browseNodeName>
+    <browseNodeStoreContextName>Automotive</browseNodeStoreContextName>
+    <browsePathById>248877031,248878031</browsePathById>
+    <browsePathByName>Automotive</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="14">
+      <id>60036031</id>
+      <id>303891031</id>
+      <id>3013843031</id>
+      <id>301308031</id>
+      <id>301309031</id>
+      <id>307675031</id>
+      <id>301310031</id>
+      <id>301311031</id>
+      <id>301314031</id>
+      <id>2901363031</id>
+      <id>301315031</id>
+      <id>303890031</id>
+      <id>2486235031</id>
+      <id>301313031</id>
+    </childNodes>
+    <productTypeDefinitions>AUTO_BATTERY,MOTORCYCLE_ACCESSORY,AUTO_CHEMICAL,CAR_ELECTRONICS,POWERSPORTS_PROTECTIVE_GEAR,TIRES,MOTORCYCLE_PART,POWERSPORTS_RIDING_SHOES,WHEEL,TIRE_AND_WHEEL_ASSEMBLIES,AUTO_ACCESSORY,AUTO_OIL,POWERSPORTS_RIDING_HELMET,MOTORCYCLES,POWERSPORTS_RIDING_GLOVES,AUTO_PART</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>60032031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">60032031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Baby Products Store</browseNodeStoreContextName>
+    <browsePathById>59624031,60032031</browsePathById>
+    <browsePathByName>Baby Products</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="17">
+      <id>60046031</id>
+      <id>364061031</id>
+      <id>60538031</id>
+      <id>1730632031</id>
+      <id>1769610031</id>
+      <id>60036031</id>
+      <id>3732438031</id>
+      <id>60042031</id>
+      <id>1731404031</id>
+      <id>60224031</id>
+      <id>1902084031</id>
+      <id>60041031</id>
+      <id>60223031</id>
+      <id>60043031</id>
+      <id>60045031</id>
+      <id>60044031</id>
+      <id>1902086031</id>
+    </childNodes>
+    <productTypeDefinitions>BABY_PRODUCT</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>117333031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">117333031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Beauty Products</browseNodeStoreContextName>
+    <browsePathById>117332031,117333031</browsePathById>
+    <browsePathByName>Beauty</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="8">
+      <id>74129031</id>
+      <id>118457031</id>
+      <id>66469031</id>
+      <id>118423031</id>
+      <id>118476031</id>
+      <id>66465031</id>
+      <id>118464031</id>
+      <id>3474291031</id>
+    </childNodes>
+    <productTypeDefinitions>BEAUTY</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>1025612</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">1025612</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Subjects</browseNodeName>
+    <browseNodeStoreContextName>Books</browseNodeStoreContextName>
+    <browsePathById>266239,1025612</browsePathById>
+    <browsePathByName>Books</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="34">
+      <id>349777011</id>
+      <id>91</id>
+      <id>67</id>
+      <id>68</id>
+      <id>507848</id>
+      <id>69</id>
+      <id>274081</id>
+      <id>71</id>
+      <id>72</id>
+      <id>496792</id>
+      <id>9587997031</id>
+      <id>62</id>
+      <id>66</id>
+      <id>275835</id>
+      <id>74</id>
+      <id>65</id>
+      <id>64</id>
+      <id>63</id>
+      <id>89</id>
+      <id>275738</id>
+      <id>61</id>
+      <id>73</id>
+      <id>275389</id>
+      <id>59</id>
+      <id>58</id>
+      <id>88</id>
+      <id>5106747031</id>
+      <id>57</id>
+      <id>4034595031</id>
+      <id>564334</id>
+      <id>60</id>
+      <id>55</id>
+      <id>83</id>
+      <id>52</id>
+    </childNodes>
+    <productTypeDefinitions>BOOKS_1973_AND_LATER</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>5866055031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">5866055031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Business, Industry &amp; Science</browseNodeStoreContextName>
+    <browsePathById>5866054031,5866055031</browsePathById>
+    <browsePathByName>Business, Industry &amp; Science</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="19">
+      <id>6283022031</id>
+      <id>6543809031</id>
+      <id>6543811031</id>
+      <id>6543813031</id>
+      <id>10256149031</id>
+      <id>6543814031</id>
+      <id>6543815031</id>
+      <id>6408768031</id>
+      <id>6284510031</id>
+      <id>6543817031</id>
+      <id>6363846031</id>
+      <id>6543818031</id>
+      <id>6436866031</id>
+      <id>6543819031</id>
+      <id>6285895031</id>
+      <id>6543821031</id>
+      <id>6543824031</id>
+      <id>1938357031</id>
+      <id>6286287031</id>
+    </childNodes>
+    <productTypeDefinitions>GROMMETS,INDUSTRIAL_WHEELS,MECHANICAL_COMPONENTS,O_RINGS,INDUSTRIAL_HOSE</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>245408031</browseNodeId>
+    <browseNodeAttributes count="0"/>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName/>
+    <browsePathById>245407031,245408031</browsePathById>
+    <browsePathByName>Outlet,Categories</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="5">
+      <id>246331031</id>
+      <id>246335031</id>
+      <id>246332031</id>
+      <id>246333031</id>
+      <id>246334031</id>
+    </childNodes>
+    <productTypeDefinitions/>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>520920</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">520920</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Styles</browseNodeName>
+    <browseNodeStoreContextName>Music Styles</browseNodeStoreContextName>
+    <browsePathById>229816,520920</browsePathById>
+    <browsePathByName>CDs &amp; Vinyl</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="23">
+      <id>557264</id>
+      <id>499368</id>
+      <id>697386</id>
+      <id>231177</id>
+      <id>231183</id>
+      <id>231219</id>
+      <id>358899031</id>
+      <id>690892</id>
+      <id>231193</id>
+      <id>5522198031</id>
+      <id>231201</id>
+      <id>231213</id>
+      <id>5522460031</id>
+      <id>501888</id>
+      <id>5522482031</id>
+      <id>231218</id>
+      <id>694208</id>
+      <id>754576</id>
+      <id>754574</id>
+      <id>13878751</id>
+      <id>231239</id>
+      <id>231249</id>
+      <id>231254</id>
+    </childNodes>
+    <productTypeDefinitions>MUSIC_POPULAR_VINYL,MUSIC_POPULAR</productTypeDefinitions>
+    <refinementsInformation count="1">
+      <refinementName name="Format">
+        <refinementField>
+          <acceptedValues>blu_ray_audio,hybrid_sacd,sacd,lp_record</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>binding</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>83451031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">83451031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Clothing</browseNodeStoreContextName>
+    <browsePathById>83450031,83451031</browsePathById>
+    <browsePathByName>Clothing</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="6">
+      <id>1730632031</id>
+      <id>1730756031</id>
+      <id>1730841031</id>
+      <id>1730929031</id>
+      <id>1731041031</id>
+      <id>1731296031</id>
+    </childNodes>
+    <productTypeDefinitions>APPAREL</productTypeDefinitions>
+    <refinementsInformation count="4">
+      <refinementName name="Collection">
+        <refinementField>
+          <acceptedValues>autumn-winter_17,spring-summer_17</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>collection_name</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Material">
+        <refinementField>
+          <acceptedValues>corduroy,cotton,denim,down,faux_fur,felt,fleece,fur,hemp,leather,linen,rubber,satin,sequined,silk,synthetic,velvet,wool</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>outer_material_type</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Season">
+        <refinementField>
+          <acceptedValues>autumn-winter,spring-summer</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>seasons</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Colour">
+        <refinementField>
+          <acceptedValues>black,grey,white,brown,beige,red,pink,orange,yellow,off-white,green,turquoise,blue,purple,gold,silver,multicoloured,transparent</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>color_map</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>340832031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">340832031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Products</browseNodeName>
+    <browseNodeStoreContextName>Computers &amp; Accessories</browseNodeStoreContextName>
+    <browsePathById>340831031,340832031</browsePathById>
+    <browsePathByName>Computers &amp; Accessories</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="18">
+      <id>6283030031</id>
+      <id>428654031</id>
+      <id>428655031</id>
+      <id>428651031</id>
+      <id>429884031</id>
+      <id>428653031</id>
+      <id>429885031</id>
+      <id>5141746031</id>
+      <id>429886031</id>
+      <id>199625031</id>
+      <id>428652031</id>
+      <id>429888031</id>
+      <id>429889031</id>
+      <id>10392531</id>
+      <id>429890031</id>
+      <id>429891031</id>
+      <id>429892031</id>
+      <id>429893031</id>
+    </childNodes>
+    <productTypeDefinitions>COMPUTER</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>77925031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">77925031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Genres</browseNodeName>
+    <browseNodeStoreContextName>Digital Music Genres</browseNodeStoreContextName>
+    <browsePathById>77197031,77925031</browsePathById>
+    <browsePathByName>Digital Music</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="23">
+      <id>77937031</id>
+      <id>77953031</id>
+      <id>77958031</id>
+      <id>77968031</id>
+      <id>77977031</id>
+      <id>78026031</id>
+      <id>78037031</id>
+      <id>78136031</id>
+      <id>78051031</id>
+      <id>78058031</id>
+      <id>78155031</id>
+      <id>77926031</id>
+      <id>78081031</id>
+      <id>78098031</id>
+      <id>78104031</id>
+      <id>77949031</id>
+      <id>78112031</id>
+      <id>78132031</id>
+      <id>78144031</id>
+      <id>78080031</id>
+      <id>78166031</id>
+      <id>78180031</id>
+      <id>78067031</id>
+    </childNodes>
+    <productTypeDefinitions>DOWNLOADABLE_MUSIC_TRACK,DOWNLOADABLE_MUSIC_ALBUM</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>79904031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">79904031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Products</browseNodeName>
+    <browseNodeStoreContextName>DIY &amp; Tools</browseNodeStoreContextName>
+    <browsePathById>79903031,79904031</browsePathById>
+    <browsePathByName>DIY &amp; Tools</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="12">
+      <id>1937992031</id>
+      <id>1938263031</id>
+      <id>1938326031</id>
+      <id>1938353031</id>
+      <id>1938691031</id>
+      <id>1938722031</id>
+      <id>1938840031</id>
+      <id>1938784031</id>
+      <id>1938841031</id>
+      <id>1939457031</id>
+      <id>1939527031</id>
+      <id>1939593031</id>
+    </childNodes>
+    <productTypeDefinitions>TOOLS</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>560800</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">560800</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Electronics</browseNodeStoreContextName>
+    <browsePathById>560798,560800</browsePathById>
+    <browsePathByName>Electronics &amp; Photo</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="13">
+      <id>1345741031</id>
+      <id>560834</id>
+      <id>3030781</id>
+      <id>949408031</id>
+      <id>1345925031</id>
+      <id>4085821</id>
+      <id>560858</id>
+      <id>1340509031</id>
+      <id>560884</id>
+      <id>1348422031</id>
+      <id>389514011</id>
+      <id>1340513031</id>
+      <id>1345763031</id>
+    </childNodes>
+    <productTypeDefinitions>CONSUMER_ELECTRONICS</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>72954031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">72954031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName/>
+    <browsePathById>72911031,72954031</browsePathById>
+    <browsePathByName>Everything Else</browsePathByName>
+    <hasChildren>false</hasChildren>
+    <childNodes count="0"/>
+    <productTypeDefinitions/>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>1571305031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">1571305031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Gift Cards</browseNodeStoreContextName>
+    <browsePathById>1571304031,1571305031</browsePathById>
+    <browsePathByName>Gift Cards</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="4">
+      <id>1969658031</id>
+      <id>1969659031</id>
+      <id>1969660031</id>
+      <id>1969661031</id>
+    </childNodes>
+    <productTypeDefinitions>PHYSICAL_GIFT_CARD,ABIS_GIFT_CARD,ELECTRONIC_GIFT_CARD</productTypeDefinitions>
+    <refinementsInformation count="4">
+      <refinementName name="Format">
+        <refinementField>
+          <acceptedValues>bookmark,collectible,gift_card_reveal,envelope,multi_pack,novelty</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>special_features</refinementAttribute>
+        </refinementField>
+        <refinementField>
+          <acceptedValues>gift_box,greeting_card</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>format</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Delivery Type">
+        <refinementField>
+          <acceptedValues>email_gift_cards,facebook,instant_messenger,print_at_home,plastic_gift_cards,sms</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>format</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Recipient">
+        <refinementField>
+          <acceptedValues>babies,children,couples,families,men,teens,women</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>target_audience</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Feature">
+        <refinementField>
+          <acceptedValues>add_a_photo,animated,suggest_a_product,video</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>thesaurus_attribute_keywords</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>344155031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">344155031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Grocery Store</browseNodeStoreContextName>
+    <browsePathById>340834031,344155031</browsePathById>
+    <browsePathByName>Grocery</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="27">
+      <id>358581031</id>
+      <id>358582031</id>
+      <id>358583031</id>
+      <id>358604031</id>
+      <id>358595031</id>
+      <id>358584031</id>
+      <id>358587031</id>
+      <id>358588031</id>
+      <id>8142366031</id>
+      <id>9733162031</id>
+      <id>6859868031</id>
+      <id>6860086031</id>
+      <id>358590031</id>
+      <id>358591031</id>
+      <id>358592031</id>
+      <id>358593031</id>
+      <id>6860800031</id>
+      <id>358596031</id>
+      <id>358599031</id>
+      <id>358597031</id>
+      <id>358598031</id>
+      <id>9637043031</id>
+      <id>358600031</id>
+      <id>358601031</id>
+      <id>358602031</id>
+      <id>358605031</id>
+      <id>6860473031</id>
+    </childNodes>
+    <productTypeDefinitions>GROCERY</productTypeDefinitions>
+    <refinementsInformation count="1">
+      <refinementName name="Cuisine">
+        <refinementField>
+          <acceptedValues>american,caribbean,chinese,english,french,greek,indian,irish,italian,japanese,korean,lebanese,malaysian,mexican,moroccan,polish,portuguese,russian,scandinavian,south_african,south_american,spanish,thai,turkish,welsh</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>cuisine</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>66280031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">66280031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Health &amp; Personal Care</browseNodeStoreContextName>
+    <browsePathById>65801031,66280031</browsePathById>
+    <browsePathByName>Health &amp; Personal Care</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="13">
+      <id>2991665031</id>
+      <id>74129031</id>
+      <id>66476031</id>
+      <id>2826465031</id>
+      <id>3787506031</id>
+      <id>66469031</id>
+      <id>74074031</id>
+      <id>2825218031</id>
+      <id>2825219031</id>
+      <id>2758315031</id>
+      <id>66465031</id>
+      <id>74072031</id>
+      <id>3360527031</id>
+    </childNodes>
+    <productTypeDefinitions>HEALTH_PERSONAL_CARE</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>193717031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">193717031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Jewellery</browseNodeStoreContextName>
+    <browsePathById>193716031,193717031</browsePathById>
+    <browsePathByName>Jewellery</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="6">
+      <id>197336031</id>
+      <id>10382832031</id>
+      <id>10382833031</id>
+      <id>10382834031</id>
+      <id>5831994031</id>
+      <id>10382835031</id>
+    </childNodes>
+    <productTypeDefinitions>FINE_JEWELRY</productTypeDefinitions>
+    <refinementsInformation count="5">
+      <refinementName name="Department">
+        <refinementField>
+          <acceptedValues>women,men,children</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>target_audience</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Style">
+        <refinementField>
+          <acceptedValues>fashion,fine,novelty</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>style_keywords</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Material">
+        <refinementField>
+          <acceptedValues>bamboo,ceramic,coral,enamel,fabric,glass,lac,leather,plastic,resin,rubber,shell,wood</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>material_type</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Metal">
+        <refinementField>
+          <acceptedValues>2_colour_gold,3_colour_gold,brass,copper,gold_plated,oxidised_gold,oxidised_silver,palladium,platinum,platinum_plated,rose_gold,silver,silver_plated,stainless_steel,titanium,tungsten,vermeil,white_gold,yellow_gold</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>metal_type</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Colour">
+        <refinementField>
+          <acceptedValues>beige,black,blue,brown,clear,gold,green,grey,metallic,multicolour,off-white,orange,pink,purple,red,silver,turquoise,white,yellow</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>color_map</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>341678031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">341678031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName/>
+    <browsePathById>341677031,341678031</browsePathById>
+    <browsePathByName>Kindle Store</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="5">
+      <id>341686031</id>
+      <id>341688031</id>
+      <id>341689031</id>
+      <id>341690031</id>
+      <id>341691031</id>
+    </childNodes>
+    <productTypeDefinitions/>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>908799031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">908799031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Large Appliances</browseNodeStoreContextName>
+    <browsePathById>908798031,908799031</browsePathById>
+    <browsePathByName>Large Appliances</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="27">
+      <id>1391003031</id>
+      <id>1391004031</id>
+      <id>1391051031</id>
+      <id>1391013031</id>
+      <id>1391005031</id>
+      <id>10706491</id>
+      <id>1391006031</id>
+      <id>10706351</id>
+      <id>10706361</id>
+      <id>10706341</id>
+      <id>1391010031</id>
+      <id>1391007031</id>
+      <id>1391008031</id>
+      <id>11716911</id>
+      <id>1391009031</id>
+      <id>10706381</id>
+      <id>1391050031</id>
+      <id>1391012031</id>
+      <id>1350562031</id>
+      <id>5382562031</id>
+      <id>5382563031</id>
+      <id>1391014031</id>
+      <id>1391011031</id>
+      <id>1391016031</id>
+      <id>11712521</id>
+      <id>1391015031</id>
+      <id>10706371</id>
+    </childNodes>
+    <productTypeDefinitions>MAJOR_HOME_APPLIANCES</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>213078031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">213078031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Lighting</browseNodeStoreContextName>
+    <browsePathById>213077031,213078031</browsePathById>
+    <browsePathByName>Lighting</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="6">
+      <id>11716781</id>
+      <id>3764789031</id>
+      <id>10709301</id>
+      <id>227259031</id>
+      <id>10709361</id>
+      <id>1938891031</id>
+    </childNodes>
+    <productTypeDefinitions>HOME_LIGHTING_AND_LAMPS</productTypeDefinitions>
+    <refinementsInformation count="2">
+      <refinementName name="EU Energy Efficiency">
+        <refinementField>
+          <acceptedValues>a_plus_plus_plus,a_plus_plus,a_plus,a,b,c,d,e,f,g</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>eu_energy_label_efficiency_class</refinementAttribute>
+        </refinementField>
+      </refinementName>
+      <refinementName name="Feature">
+        <refinementField>
+          <acceptedValues>dimmability,motion_sensor,waterproof</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>special_features</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>3054241031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">3054241031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName/>
+    <browsePathById>3054240031,3054241031</browsePathById>
+    <browsePathByName>LOVEFiLM By Post</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="2">
+      <id>3064175031</id>
+      <id>3064176031</id>
+    </childNodes>
+    <productTypeDefinitions/>
+    <refinementsInformation count="1">
+      <refinementName name="Subtitles">
+        <refinementField>
+          <acceptedValues>arabic,cantonese,chinese,danish,dutch,english,english_audio_description,french,german,hindi,italian,japanese,korean,mandarin,portuguese,russian,silent,spanish,swedish,thai</acceptedValues>
+          <hasModifier>true</hasModifier>
+          <modifiers/>
+          <refinementAttribute>language</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>2454167031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">2454167031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Luggage</browseNodeStoreContextName>
+    <browsePathById>2454166031,2454167031</browsePathById>
+    <browsePathByName>Luggage</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="12">
+      <id>11967990031</id>
+      <id>2644625031</id>
+      <id>11967997031</id>
+      <id>1769578031</id>
+      <id>1769551031</id>
+      <id>2644626031</id>
+      <id>1769906031</id>
+      <id>2722825031</id>
+      <id>1769585031</id>
+      <id>2723115031</id>
+      <id>11967998031</id>
+      <id>11967999031</id>
+    </childNodes>
+    <productTypeDefinitions>BAG,LUGGAGE</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>340838031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">340838031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Musical Instruments &amp; Equipment</browseNodeStoreContextName>
+    <browsePathById>340837031,340838031</browsePathById>
+    <browsePathByName>Musical Instruments &amp; DJ</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="14">
+      <id>406551031</id>
+      <id>407674031</id>
+      <id>5496113031</id>
+      <id>407725031</id>
+      <id>406550031</id>
+      <id>407785031</id>
+      <id>407786031</id>
+      <id>407792031</id>
+      <id>406552031</id>
+      <id>407819031</id>
+      <id>267378</id>
+      <id>407836031</id>
+      <id>407860031</id>
+      <id>407867031</id>
+    </childNodes>
+    <productTypeDefinitions>MUSICAL_INSTRUMENTS</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>1025616</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">1025616</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName/>
+    <browsePathById>300703,1025616</browsePathById>
+    <browsePathByName>PC &amp; Video Games</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="4">
+      <id>676172011</id>
+      <id>676171011</id>
+      <id>2683270031</id>
+      <id>676193011</id>
+    </childNodes>
+    <productTypeDefinitions>CONSOLE_VIDEO_GAMES</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>340841031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">340841031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Pet Supplies</browseNodeStoreContextName>
+    <browsePathById>340840031,340841031</browsePathById>
+    <browsePathByName>Pet Supplies</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="10">
+      <id>451108031</id>
+      <id>451109031</id>
+      <id>451110031</id>
+      <id>451111031</id>
+      <id>471521031</id>
+      <id>471537031</id>
+      <id>471482031</id>
+      <id>451112031</id>
+      <id>451113031</id>
+      <id>451114031</id>
+    </childNodes>
+    <productTypeDefinitions>PET_SUPPLIES</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>362350011</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">362350011</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Shoes &amp; Bags</browseNodeStoreContextName>
+    <browsePathById>355005011,362350011</browsePathById>
+    <browsePathByName>Shoes &amp; Bags</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="4">
+      <id>1769551031</id>
+      <id>1769533031</id>
+      <id>1769609031</id>
+      <id>11967999031</id>
+    </childNodes>
+    <productTypeDefinitions>SHOES</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>1025614</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">1025614</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Software</browseNodeStoreContextName>
+    <browsePathById>300435,1025614</browsePathById>
+    <browsePathByName>Software</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="13">
+      <id>600014</id>
+      <id>300473</id>
+      <id>300436</id>
+      <id>300479</id>
+      <id>599892</id>
+      <id>300449</id>
+      <id>599948</id>
+      <id>600136</id>
+      <id>600188</id>
+      <id>599988</id>
+      <id>599982</id>
+      <id>16416481</id>
+      <id>600236</id>
+    </childNodes>
+    <productTypeDefinitions>SOFTWARE</productTypeDefinitions>
+    <refinementsInformation count="1">
+      <refinementName name="Medium">
+        <refinementField>
+          <acceptedValues>software_download,license</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>binding</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>319530011</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">319530011</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Sporting Goods</browseNodeStoreContextName>
+    <browsePathById>318949011,319530011</browsePathById>
+    <browsePathByName>Sports &amp; Outdoors</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="67">
+      <id>453430031</id>
+      <id>671783011</id>
+      <id>469690031</id>
+      <id>324259011</id>
+      <id>324054011</id>
+      <id>4379836031</id>
+      <id>671792011</id>
+      <id>324109011</id>
+      <id>324105011</id>
+      <id>324253011</id>
+      <id>671619011</id>
+      <id>324248011</id>
+      <id>319545011</id>
+      <id>453551031</id>
+      <id>453556031</id>
+      <id>324071011</id>
+      <id>324144011</id>
+      <id>324249011</id>
+      <id>453600031</id>
+      <id>324128011</id>
+      <id>454663031</id>
+      <id>324129011</id>
+      <id>319535011</id>
+      <id>324078011</id>
+      <id>3644971031</id>
+      <id>5123223031</id>
+      <id>4550508031</id>
+      <id>324115011</id>
+      <id>454779031</id>
+      <id>671626011</id>
+      <id>324087011</id>
+      <id>454799031</id>
+      <id>454887031</id>
+      <id>671627011</id>
+      <id>324261011</id>
+      <id>461170031</id>
+      <id>324091011</id>
+      <id>5124458031</id>
+      <id>454942031</id>
+      <id>548056031</id>
+      <id>455699031</id>
+      <id>5143191031</id>
+      <id>455704031</id>
+      <id>324096011</id>
+      <id>324052011</id>
+      <id>455717031</id>
+      <id>324151011</id>
+      <id>5143215031</id>
+      <id>461150031</id>
+      <id>5143262031</id>
+      <id>455764031</id>
+      <id>116189031</id>
+      <id>1770082031</id>
+      <id>4551367031</id>
+      <id>4543019031</id>
+      <id>461182031</id>
+      <id>324062011</id>
+      <id>319539011</id>
+      <id>324066011</id>
+      <id>324058011</id>
+      <id>455808031</id>
+      <id>548069031</id>
+      <id>461203031</id>
+      <id>671788011</id>
+      <id>319542011</id>
+      <id>3076655031</id>
+      <id>671791011</id>
+    </childNodes>
+    <productTypeDefinitions>SPORTING_GOODS</productTypeDefinitions>
+    <refinementsInformation count="1">
+      <refinementName name="Collection">
+        <refinementField>
+          <acceptedValues>autumn-winter_17,spring-summer_17</acceptedValues>
+          <hasModifier>false</hasModifier>
+          <modifiers/>
+          <refinementAttribute>collection_name</refinementAttribute>
+        </refinementField>
+      </refinementName>
+    </refinementsInformation>
+  </Node>
+  <Node>
+    <browseNodeId>192414031</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">192414031</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Office Products</browseNodeStoreContextName>
+    <browsePathById>192413031,192414031</browsePathById>
+    <browsePathByName>Stationery &amp; Office Supplies</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="9">
+      <id>9469007031</id>
+      <id>197750031</id>
+      <id>197749031</id>
+      <id>197744031</id>
+      <id>197746031</id>
+      <id>197745031</id>
+      <id>197743031</id>
+      <id>197748031</id>
+      <id>197747031</id>
+    </childNodes>
+    <productTypeDefinitions>OFFICE_PRODUCTS</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+  <Node>
+    <browseNodeId>328229011</browseNodeId>
+    <browseNodeAttributes count="1">
+      <attribute name="recommended_browse_nodes">328229011</attribute>
+    </browseNodeAttributes>
+    <browseNodeName>Categories</browseNodeName>
+    <browseNodeStoreContextName>Watches</browseNodeStoreContextName>
+    <browsePathById>328228011,328229011</browsePathById>
+    <browsePathByName>Watches</browsePathByName>
+    <hasChildren>true</hasChildren>
+    <childNodes count="5">
+      <id>199485031</id>
+      <id>10103530031</id>
+      <id>10103529031</id>
+      <id>10103528031</id>
+      <id>10103527031</id>
+    </childNodes>
+    <productTypeDefinitions>WATCH</productTypeDefinitions>
+    <refinementsInformation count="0"/>
+  </Node>
+</Result>
