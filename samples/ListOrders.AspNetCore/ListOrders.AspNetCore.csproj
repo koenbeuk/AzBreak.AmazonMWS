@@ -5,6 +5,7 @@
     <UserSecretsId>AzBreak-AmazonMWS-Samples</UserSecretsId>
     <SignAssembly>false</SignAssembly>
     <PublicSign>false</PublicSign>
+    <IsPackable>false</IsPackable>
   </PropertyGroup>
 
   <ItemGroup>
