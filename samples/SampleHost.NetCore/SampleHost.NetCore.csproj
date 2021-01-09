@@ -7,13 +7,11 @@
     <IsPackable>false</IsPackable>
   </PropertyGroup>
   <ItemGroup>
+    <PackageReference Include="AzBreak.AmazonMWS.Factory" Version="0.1.2" />
+    <PackageReference Include="AzBreak.AmazonMWS.Reports" Version="0.1.2" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="5.0.0" />
     <PackageReference Include="Microsoft.Extensions.Options" Version="5.0.0" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\src\AzBreak.AmazonMWS.Factory\AzBreak.AmazonMWS.Factory.csproj" />
-    <ProjectReference Include="..\..\src\AzBreak.AmazonMWS.Reports\AzBreak.AmazonMWS.Reports.csproj" />
   </ItemGroup>
 
 </Project>

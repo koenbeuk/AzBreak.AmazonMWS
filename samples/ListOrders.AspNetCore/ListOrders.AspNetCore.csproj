@@ -9,6 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\AzBreak.AmazonMWS\AzBreak.AmazonMWS.csproj" />
+    <PackageReference Include="AzBreak.AmazonMWS" Version="0.1.2" />
   </ItemGroup>
 </Project>
