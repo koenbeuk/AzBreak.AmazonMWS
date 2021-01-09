@@ -26,4 +26,16 @@ jobs:
             echo Version: $VERSION
             VERSION="${VERSION//v}"
             dotnet pack -v normal -c Release --include-symbols --include-source -p:PackageVersion=$VERSION -o nupkg
+        - name: Push to GitHub Feed
+          run: |
+            for f in ./nupkg/*.nupkg
+            do
+              dotnet nuget push $f --source $GITHUB_FEED --api-key ${{github.token}} --skip-duplicate --no-symbols true
+            done
+        - name: Push to NuGet Feed
+          run: |
+            for f in ./nupkg/*.nupkg
+            do
+              dotnet nuget push $f --source $NUGET_FEED --skip-duplicate --api-key $NUGET_KEY
+            done
 
