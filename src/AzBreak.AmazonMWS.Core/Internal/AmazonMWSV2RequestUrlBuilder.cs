@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace AzBreak.AmazonMWS.Core.Internal
 {
-    sealed class AmazonMWSV2RequestUrlBuilder
+    public sealed class AmazonMWSV2RequestUrlBuilder
     {
-        internal AmazonMWSV2RequestUrlBuilder(SignatureMethod method = SignatureMethod.HmacSHA256)
+        public AmazonMWSV2RequestUrlBuilder(SignatureMethod method = SignatureMethod.HmacSHA256)
         {
             this.SignatureMethod = method;
         }

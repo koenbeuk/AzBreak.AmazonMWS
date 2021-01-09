@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace AzBreak.AmazonMWS.Core.Internal
 {
-    sealed class MD5VerifiedStream : Stream
+    public sealed class MD5VerifiedStream : Stream
     {
         readonly Stream inner;
         readonly byte[] expectedHash;

@@ -7,14 +7,14 @@ using System.Threading.Tasks;
 
 namespace AzBreak.AmazonMWS.Core.Internal
 {
-    static class DateTimeHelper
+    public static class DateTimeHelper
     {
         const string AmazonMWSDateTimeFormat = "yyyy-MM-ddTHH:mm:ssZ";
         const string AmazonMWSDateTimeFormatWithPrecision = "yyyy-MM-ddTHH:mm:ss.fffZ";
 
         static readonly string[] ParseableFormats = { AmazonMWSDateTimeFormat, AmazonMWSDateTimeFormatWithPrecision };
         
-        static internal DateTimeOffset? ToDateTimeOffset(string value)
+        public static DateTimeOffset? ToDateTimeOffset(string value)
         {
             if (DateTimeOffset.TryParseExact(value, ParseableFormats, CultureInfo.InvariantCulture, DateTimeStyles.AssumeUniversal, out var result))
             {
@@ -26,7 +26,7 @@ namespace AzBreak.AmazonMWS.Core.Internal
             }
         }
 
-        static internal string ToIsoDateTimeString(DateTimeOffset dateTimeOffset)
+        public static string ToIsoDateTimeString(DateTimeOffset dateTimeOffset)
         {
             var utcDateTime = dateTimeOffset.ToUniversalTime();
             // If you are using .NET, you must not send overly specific timestamps, due to different interpretations of how extra time precision should be dropped. 

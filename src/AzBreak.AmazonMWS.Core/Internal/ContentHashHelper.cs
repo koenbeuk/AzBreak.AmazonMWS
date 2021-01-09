@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace AzBreak.AmazonMWS.Core.Internal
 {
-    static class ContentHashHelper
+    public static class ContentHashHelper
     {
         internal static async Task<byte[]> ComputeMD5HashBytes(Stream stream, CancellationToken cancellationToken = default)
         {
@@ -37,7 +37,7 @@ namespace AzBreak.AmazonMWS.Core.Internal
             }
         }
 
-        internal static async Task<string> ComputeMD5Hash(Stream stream, CancellationToken cancellationToken = default)
+        public static async Task<string> ComputeMD5Hash(Stream stream, CancellationToken cancellationToken = default)
         {
             var hashBytes = await ComputeMD5HashBytes(stream, cancellationToken);
             return Convert.ToBase64String(hashBytes);

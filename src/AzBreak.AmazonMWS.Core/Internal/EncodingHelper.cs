@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AzBreak.AmazonMWS.Core.Internal
 {
-    static class EncodingHelper
+    public static class EncodingHelper
     {
         public static readonly Encoding DefaultEncoding = Encoding.GetEncoding("ISO-8859-1");
     }

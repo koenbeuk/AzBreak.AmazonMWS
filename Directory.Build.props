@@ -19,6 +19,7 @@
     <SignAssembly>true</SignAssembly>
     <PublicSign Condition=" '$(OS)' != 'Windows_NT' ">true</PublicSign>
     <EmbedUntrackedSources>True</EmbedUntrackedSources>
+    <AssemblyOriginatorKeyFile>$(MSBuildProjectDirectory)\..\..\AzBreak.AmazonMWS.snk</AssemblyOriginatorKeyFile>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(GITHUB_ACTIONS)' == 'true'">

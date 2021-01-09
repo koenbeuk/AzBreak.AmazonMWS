@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AzBreak.AmazonMWS.Core.Internal
 {
-    static class QueryHelper
+    public static class QueryHelper
     {
         static string MapParameterValue(object value)
         {
@@ -24,7 +24,7 @@ namespace AzBreak.AmazonMWS.Core.Internal
             }
         }
 
-        static internal string BuildCanonicalQueryString(IReadOnlyDictionary<string, object> parameters)
+        public static string BuildCanonicalQueryString(IReadOnlyDictionary<string, object> parameters)
         {
             if (parameters == null)
                 throw new ArgumentNullException(nameof(parameters));

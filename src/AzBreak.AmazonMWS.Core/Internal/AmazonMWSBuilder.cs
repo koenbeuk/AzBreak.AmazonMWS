@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace AzBreak.AmazonMWS.Core.Internal
 {
-    class AmazonMWSBuilder : IAmazonMWSBuilder
+    public class AmazonMWSBuilder : IAmazonMWSBuilder
     {
         public AmazonMWSBuilder(IServiceCollection services)
         {
